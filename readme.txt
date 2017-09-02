@@ -1,0 +1,1 @@
+This is Arkadroid, the arkanoid style game for android devices.
